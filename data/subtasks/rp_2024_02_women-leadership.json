@@ -1,0 +1,166 @@
+{
+  "subtasks": [
+    {
+      "id": "b60b5854-773d-4c75-a9c2-4ea8f04551a1",
+      "title": "프로젝트 셋업",
+      "description": "",
+      "status": "done",
+      "order": 0,
+      "created_at": "2026-03-20",
+      "completed_at": "2026-03-23"
+    },
+    {
+      "id": "3b6f5406-51c9-43d5-9812-98f708544a54",
+      "title": "AI 코딩 1차 코딩",
+      "description": "",
+      "status": "done",
+      "order": 1,
+      "created_at": "2026-03-20",
+      "completed_at": "2026-03-24"
+    },
+    {
+      "id": "d7264ad4-c469-4f54-8b6c-df03b34594ac",
+      "title": "기존분석 및 기존결과 기존연구 재분석",
+      "description": "",
+      "status": "done",
+      "order": 2,
+      "created_at": "2026-03-23",
+      "completed_at": "2026-03-24"
+    },
+    {
+      "id": "5509bf03-17f1-4af8-ae92-18baee7346cd",
+      "title": "새로운 방향 확인",
+      "description": "",
+      "status": "done",
+      "order": 3,
+      "created_at": "2026-03-23",
+      "completed_at": "2026-03-24"
+    },
+    {
+      "id": "fca6acfd-30bf-455a-b2a8-70cd4d683b2c",
+      "title": "AI코딩 1차 코딩 내용 분석 및 읽기",
+      "description": "",
+      "status": "pending",
+      "order": 4,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "cb45c571-fb7e-44c2-969e-45f7bc44bfe5",
+      "title": "관련 문헌 Scholar RAG",
+      "description": "",
+      "status": "pending",
+      "order": 5,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "989ddc89-f76d-41fb-a33c-f9d49276aa52",
+      "title": "주 질적분석",
+      "description": "",
+      "status": "pending",
+      "order": 6,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "1bb739cc-043c-4adb-82b4-c70e9d8dfe09",
+      "title": "교차분석",
+      "description": "",
+      "status": "pending",
+      "order": 7,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "7e5fcec0-6fdf-427e-b499-b4dfd5522417",
+      "title": "토픽모델링",
+      "description": "",
+      "status": "pending",
+      "order": 8,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "16c6b2a2-0517-41ef-bbb5-7a3a35dccecf",
+      "title": "코드키워드 네트워크",
+      "description": "",
+      "status": "pending",
+      "order": 9,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "6cf5c00b-714c-481f-bc4f-f839a9e1fe62",
+      "title": "글쓰기방향 정하기",
+      "description": "",
+      "status": "pending",
+      "order": 10,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "5d191156-64f0-4189-935b-d804ef8b111c",
+      "title": "글쓰기 시작",
+      "description": "",
+      "status": "pending",
+      "order": 11,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "abeed5c0-9ace-486c-8fdb-bab735694e51",
+      "title": "2~3 라운드 퇴고",
+      "description": "",
+      "status": "pending",
+      "order": 12,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "7c3cef4c-5c20-4199-ba0f-5e2281605693",
+      "title": "관련 작업물들과 조교수님 및 기존 팀들 알려줄 보고서, 문건들 정리",
+      "description": "",
+      "status": "pending",
+      "order": 13,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "6e9ac78f-64d0-4487-a2d4-56f29f22dea9",
+      "title": "새로운 팀으로 검증",
+      "description": "",
+      "status": "pending",
+      "order": 14,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "1d790131-737d-4d70-ac2a-22627e4fbacf",
+      "title": "새로운 팀으로 글쓰기",
+      "description": "",
+      "status": "pending",
+      "order": 15,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "d1e48b4b-e838-4c06-9aa3-c7adcf6de0ef",
+      "title": "퇴고",
+      "description": "",
+      "status": "pending",
+      "order": 16,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "896e4f20-b07e-49a6-9189-110576f9d6fd",
+      "title": "저널투고",
+      "description": "",
+      "status": "pending",
+      "order": 17,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    }
+  ]
+}
