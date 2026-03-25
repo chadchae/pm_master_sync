@@ -1,0 +1,94 @@
+{
+  "subtasks": [
+    {
+      "id": "faf607f6-7f54-4c0f-8f90-541aa9e60a30",
+      "title": "프로젝트셋업",
+      "description": "",
+      "status": "done",
+      "order": 0,
+      "created_at": "2026-03-20",
+      "completed_at": "2026-03-21"
+    },
+    {
+      "id": "e23b7555-15b1-476c-9845-b65739dde3c6",
+      "title": "데이터분석",
+      "description": "",
+      "status": "done",
+      "order": 1,
+      "created_at": "2026-03-21",
+      "completed_at": "2026-03-21"
+    },
+    {
+      "id": "588499e3-9a45-4d22-abe3-39c88da2fb07",
+      "title": "결과보고서",
+      "description": "",
+      "status": "done",
+      "order": 2,
+      "created_at": "2026-03-21",
+      "completed_at": "2026-03-23"
+    },
+    {
+      "id": "dec5f23c-9d40-41b3-b33c-19cacc8928b1",
+      "title": "방향설정",
+      "description": "",
+      "status": "pending",
+      "order": 3,
+      "created_at": "2026-03-21",
+      "completed_at": ""
+    },
+    {
+      "id": "d68cedd4-46a8-410b-8fc1-b7a5365241f7",
+      "title": "글쓰기",
+      "description": "",
+      "status": "pending",
+      "order": 4,
+      "created_at": "2026-03-21",
+      "completed_at": ""
+    },
+    {
+      "id": "17b45866-ca2e-4230-94c6-bd9faa5b52d0",
+      "title": "퇴고",
+      "description": "",
+      "status": "pending",
+      "order": 5,
+      "created_at": "2026-03-21",
+      "completed_at": ""
+    },
+    {
+      "id": "aa792ca3-a60d-4e25-8855-dc95eb0cfee6",
+      "title": "저널투고준비",
+      "description": "",
+      "status": "pending",
+      "order": 6,
+      "created_at": "2026-03-21",
+      "completed_at": ""
+    },
+    {
+      "id": "994141c7-fae1-4ffa-bb69-3b0309f51fb4",
+      "title": "저널투고",
+      "description": "",
+      "status": "pending",
+      "order": 7,
+      "created_at": "2026-03-21",
+      "completed_at": ""
+    },
+    {
+      "id": "a1c720b9-b861-4e01-b867-d999e0c503b6",
+      "title": "리비젼",
+      "description": "",
+      "status": "pending",
+      "order": 8,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    },
+    {
+      "id": "0457925a-d8ec-49be-b732-1bef48ea009a",
+      "title": "저널게재",
+      "description": "",
+      "status": "pending",
+      "order": 9,
+      "created_at": "2026-03-23",
+      "completed_at": ""
+    }
+  ]
+}
