@@ -1,0 +1,22 @@
+{
+  "subtasks": [
+    {
+      "id": "376f819c-2b72-4c75-87ea-c66349304f1c",
+      "title": "프로젝트셋업",
+      "description": "",
+      "status": "pending",
+      "order": 0,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "0c3e728f-40da-4a40-ba98-640c766829d7",
+      "title": "프로젝트완료",
+      "description": "",
+      "status": "pending",
+      "order": 1,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    }
+  ]
+}
