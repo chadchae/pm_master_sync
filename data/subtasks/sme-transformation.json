@@ -1,0 +1,22 @@
+{
+  "subtasks": [
+    {
+      "id": "10a43a8d-77af-4052-acec-b11ded0da558",
+      "title": "연구셋업",
+      "description": "",
+      "status": "pending",
+      "order": 0,
+      "created_at": "2026-03-24",
+      "completed_at": ""
+    },
+    {
+      "id": "a8eab685-1b18-4aa6-afa1-8ab4bb1aebfe",
+      "title": "연구 끝",
+      "description": "",
+      "status": "pending",
+      "order": 1,
+      "created_at": "2026-03-24",
+      "completed_at": ""
+    }
+  ]
+}
