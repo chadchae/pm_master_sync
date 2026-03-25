@@ -1,0 +1,67 @@
+{
+  "subtasks": [
+    {
+      "id": "297dfad3-ddbe-488d-8bc2-192e8ed8fad2",
+      "title": "프로젝트셋업",
+      "description": "",
+      "status": "pending",
+      "order": 0,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "988c501d-0c65-4f79-8412-729cd6985580",
+      "title": "리터리쳐리뷰 및 갭 인식 및 찾기",
+      "description": "",
+      "status": "pending",
+      "order": 1,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "51e92879-96a7-4748-8f1d-f36518db521f",
+      "title": "리터리쳐 리뷰 결론 기반 컨셉츄얼 스트럭쳐구성",
+      "description": "",
+      "status": "pending",
+      "order": 2,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "0e4485cf-6217-4b8a-8716-c55ccc89952d",
+      "title": "글쓰기",
+      "description": "",
+      "status": "pending",
+      "order": 3,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "f6c8de9d-d936-48a5-9ad3-9d9706b8ad1c",
+      "title": "퇴고",
+      "description": "",
+      "status": "pending",
+      "order": 4,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "16ed54f1-ec66-4fdb-b00f-35232e14813d",
+      "title": "저널투고준비 (프루프리딩, 에디팅 ....)",
+      "description": "",
+      "status": "pending",
+      "order": 5,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "b72eafbd-cb7b-40e4-b1d9-e02ffe3a04f0",
+      "title": "저널투고",
+      "description": "",
+      "status": "pending",
+      "order": 6,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    }
+  ]
+}
