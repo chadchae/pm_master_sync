@@ -1,0 +1,49 @@
+{
+  "subtasks": [
+    {
+      "id": "a4f765ae-8ade-4dda-b0ce-52ab402a87f1",
+      "title": "프로젝트셋업",
+      "description": "",
+      "status": "pending",
+      "order": 0,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "9b387ecb-bf1d-48da-bdf6-007dd536b631",
+      "title": "데이터컬렉션",
+      "description": "",
+      "status": "pending",
+      "order": 1,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "47b024e4-66c9-4b34-90dd-d8fc90cafec8",
+      "title": "데이터분석",
+      "description": "",
+      "status": "pending",
+      "order": 2,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "3ef797cd-f761-4ff4-a6b7-88e9c9ae7637",
+      "title": "라이팅",
+      "description": "",
+      "status": "pending",
+      "order": 3,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    },
+    {
+      "id": "2761074c-2450-44c0-bca3-bcf18780435a",
+      "title": "저널제출",
+      "description": "",
+      "status": "pending",
+      "order": 4,
+      "created_at": "2026-03-20",
+      "completed_at": ""
+    }
+  ]
+}
