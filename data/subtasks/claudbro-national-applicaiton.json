@@ -1,0 +1,40 @@
+{
+  "subtasks": [
+    {
+      "id": "303e3a95-5f80-41b0-b60a-0f502e524543",
+      "title": "시작",
+      "description": "",
+      "status": "done",
+      "order": 0,
+      "created_at": "2026-03-23",
+      "completed_at": "2026-03-23"
+    },
+    {
+      "id": "8e75af05-92e4-4221-b00e-d504017aa9ec",
+      "title": "이메일 및 문서 읽고 분석",
+      "description": "",
+      "status": "done",
+      "order": 1,
+      "created_at": "2026-03-23",
+      "completed_at": "2026-03-23"
+    },
+    {
+      "id": "b2393cbe-39ef-434a-a485-1c75a274aa8c",
+      "title": "이메일 쓰기",
+      "description": "",
+      "status": "done",
+      "order": 2,
+      "created_at": "2026-03-23",
+      "completed_at": "2026-03-23"
+    },
+    {
+      "id": "fba76595-e5f4-4674-afdb-f0b6518f6edf",
+      "title": "문서작성",
+      "description": "",
+      "status": "done",
+      "order": 3,
+      "created_at": "2026-03-23",
+      "completed_at": "2026-03-23"
+    }
+  ]
+}
