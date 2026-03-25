@@ -1,0 +1,87 @@
+{
+  "columns": [
+    "todo",
+    "in_progress",
+    "done"
+  ],
+  "items": [
+    {
+      "id": "16fe374b-a472-44f6-b917-8223b4c9571b",
+      "title": "서보영이 페이퍼 읽기",
+      "description": "서보영 지난 출판 페이퍼 읽고 정리",
+      "column": "todo",
+      "priority": "medium",
+      "assignee": "채충일",
+      "due_date": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20",
+      "completed_at": "",
+      "order": 0
+    },
+    {
+      "id": "46b21e77-6a48-4057-8e81-05494af3c986",
+      "title": "뽑힌 키워드로 비블리오 데이터 수집",
+      "description": "",
+      "column": "todo",
+      "priority": "medium",
+      "assignee": "채충일",
+      "due_date": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20",
+      "completed_at": "",
+      "order": 2
+    },
+    {
+      "id": "6b08a2ea-314a-4783-b5b3-91a7f4a61e57",
+      "title": "비블리오 데이터로 스칼라RAG",
+      "description": "",
+      "column": "todo",
+      "priority": "medium",
+      "assignee": "채충일",
+      "due_date": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20",
+      "completed_at": "",
+      "order": 3
+    },
+    {
+      "id": "ad8cb71f-e2f3-42d4-9513-b906eaf35994",
+      "title": "리터리쳐리뷰 페이퍼 시작 - 셋팅",
+      "description": "",
+      "column": "todo",
+      "priority": "medium",
+      "assignee": "채충일",
+      "due_date": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20",
+      "completed_at": "",
+      "order": 4
+    },
+    {
+      "id": "6d896104-275e-4ffe-bbca-e0037455d942",
+      "title": "프로젝트 키워드 수집 및 구성 - 오늘",
+      "description": "",
+      "column": "todo",
+      "priority": "medium",
+      "assignee": "채충일, 서보영",
+      "due_date": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20",
+      "completed_at": "",
+      "order": 1
+    },
+    {
+      "id": "73427699-e3ba-4267-96c0-67808933c5e5",
+      "title": "리터리쳐 수집",
+      "description": "",
+      "column": "todo",
+      "priority": "medium",
+      "assignee": "서보영",
+      "due_date": "",
+      "created_at": "2026-03-20",
+      "updated_at": "2026-03-20",
+      "completed_at": "",
+      "order": 5
+    }
+  ]
+}
