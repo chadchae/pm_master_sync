@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "id": "500dfae9-3237-4467-8239-59f6915c6234",
+      "type": "create",
+      "title": "Project created: PackageList",
+      "description": "",
+      "created_at": "2026-03-19 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "d590d221-7f2b-44f5-af94-00f4f183aa43",
+      "type": "update",
+      "title": "Subtask completed: 개발시작",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "659f0478-041a-4bdf-a7e1-226c82a535b4",
+      "type": "update",
+      "title": "Subtask completed: 개발완료",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "4173f9c2-0bb5-4e5c-bc57-a977cf917e7c",
+      "type": "milestone",
+      "title": "Work instruction: 작업지시_2026-03-19.md",
+      "description": "",
+      "created_at": "2026-03-19 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "06d24884-229d-4ba7-bb32-a1c1f929d3f3",
+      "type": "milestone",
+      "title": "Stage moved: 5_completed → 6_archived",
+      "description": "",
+      "created_at": "2026-03-23 03:16",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
