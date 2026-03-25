@@ -1,0 +1,74 @@
+{
+  "entries": [
+    {
+      "id": "a1bc4bd6-e2a9-4a39-b7b1-34fbce45d714",
+      "type": "create",
+      "title": "Project created: 조연주 교수님 여성리더십 인터뷰자료 분석 - 논문 ",
+      "description": "",
+      "created_at": "2026-03-20 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "06661760-b5dd-4281-a70d-e6e4465bcf04",
+      "type": "milestone",
+      "title": "Work instruction: 작업지시_2026-03-20.md",
+      "description": "",
+      "created_at": "2026-03-20 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "68f8e290-374c-4f44-b954-a12cceca052a",
+      "type": "update",
+      "title": "Subtask completed: 프로젝트 셋업",
+      "description": "",
+      "created_at": "2026-03-23 22:40",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ca5a6831-d0e3-4f15-b057-aae0982fd050",
+      "type": "update",
+      "title": "Document saved: 연구방향/연구방향.md",
+      "description": "",
+      "created_at": "2026-03-23 23:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "9e61cbea-3968-40be-96f9-a860935adb20",
+      "type": "update",
+      "title": "Subtask completed: AI 코딩 1차 코딩",
+      "description": "",
+      "created_at": "2026-03-24 07:00",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "244b51f2-566c-40f7-be3c-659c5430da3c",
+      "type": "update",
+      "title": "Subtask completed: 기존분석 및 기존결과 기존연구 재분석",
+      "description": "",
+      "created_at": "2026-03-24 07:00",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "2c837964-415b-40d6-8879-85b06ba42952",
+      "type": "update",
+      "title": "Subtask completed: 새로운 방향 확인",
+      "description": "",
+      "created_at": "2026-03-24 07:00",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
