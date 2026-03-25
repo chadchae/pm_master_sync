@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "id": "f29ac7b8-499f-461e-9649-4441d7876ecf",
+      "type": "create",
+      "title": "Project created: Next.js + FastAPI Full-Stack Starter Template",
+      "description": "",
+      "created_at": "2026-03-19 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "1eb64d49-d466-47f0-a1b9-d0da4689bf2a",
+      "type": "update",
+      "title": "Subtask completed: 개발시작",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "5704035a-1610-43aa-8ef7-50093eac2eee",
+      "type": "update",
+      "title": "Subtask completed: 개발완료",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "73ad420f-e997-4cf1-b5d0-010ea0bf6da2",
+      "type": "milestone",
+      "title": "Work instruction: 작업지시_2026-03-19.md",
+      "description": "",
+      "created_at": "2026-03-19 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "c478817d-29e4-4e60-842c-6d14e482482d",
+      "type": "milestone",
+      "title": "Stage moved: 5_completed → 6_archived",
+      "description": "",
+      "created_at": "2026-03-23 03:18",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
