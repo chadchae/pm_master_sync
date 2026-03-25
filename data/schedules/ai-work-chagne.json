@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "id": "2ab50f1b-fcec-4754-96b8-c42556caf930",
+      "title": "이슈설정",
+      "description": "",
+      "start_date": "2026-03-20",
+      "end_date": "2026-03-20",
+      "duration_days": 0,
+      "assignee": "Chad",
+      "status": "in_progress",
+      "depends_on": [],
+      "parent_id": "",
+      "progress_pct": 0,
+      "order": 0,
+      "category": "General"
+    },
+    {
+      "id": "8d0b2240-c4f2-498c-9cd6-178619cc7f0b",
+      "title": "리터리쳐 리뷰",
+      "description": "",
+      "start_date": "2026-03-21",
+      "end_date": "2026-03-25",
+      "duration_days": 4,
+      "assignee": "Chad",
+      "status": "planned",
+      "depends_on": [
+        "2ab50f1b-fcec-4754-96b8-c42556caf930"
+      ],
+      "parent_id": "2ab50f1b-fcec-4754-96b8-c42556caf930",
+      "category": "",
+      "progress_pct": 0,
+      "order": 1
+    }
+  ],
+  "milestones": [],
+  "categories": [
+    {
+      "name": "General",
+      "color": "#6b7280"
+    }
+  ]
+}
