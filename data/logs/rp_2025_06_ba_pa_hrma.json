@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "id": "8948a1cd-55ce-4393-987e-a6e3ff75561b",
+      "type": "create",
+      "title": "Project created: rp_2025_06_ba_pa_hrma",
+      "description": "",
+      "created_at": "2026-03-20 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "a1639e15-6980-4b89-87bc-ae4ddab4db11",
+      "type": "milestone",
+      "title": "Work instruction: 작업지시_2026-03-20.md",
+      "description": "",
+      "created_at": "2026-03-20 00:00",
+      "tags": [
+        "backfill"
+      ]
+    }
+  ]
+}
