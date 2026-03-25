@@ -1,0 +1,2604 @@
+{
+  "entries": [
+    {
+      "id": "5ce15284-7e16-43c9-b831-3b0b7a043343",
+      "type": "create",
+      "title": "Project created: AI 직업변화",
+      "description": "",
+      "created_at": "2026-03-19 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "81aaf6ea-751b-4390-baaa-fb6a1b258493",
+      "type": "create",
+      "title": "Todo created: 기본코딩 - 메뉴얼",
+      "description": "",
+      "created_at": "2026-03-19 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "11976fd5-1974-4872-b057-f8d7ee10dc14",
+      "type": "update",
+      "title": "Todo completed: 기본코딩 - 메뉴얼",
+      "description": "",
+      "created_at": "2026-03-21 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "dbe5df39-ed63-4a06-a953-5333142bc00d",
+      "type": "create",
+      "title": "Todo created: 기본코딩 - 메뉴얼변역",
+      "description": "",
+      "created_at": "2026-03-19 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "e4a0a1f3-078a-421a-832b-6050cd143c64",
+      "type": "update",
+      "title": "Todo completed: 기본코딩 - 메뉴얼변역",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "ebbd1c3f-ca7e-4944-9e77-f262cec11675",
+      "type": "create",
+      "title": "Todo created: 아틀라스티아이 에러 원인찾기",
+      "description": "",
+      "created_at": "2026-03-22 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "29520866-68be-4e49-bc07-6a208c3e4313",
+      "type": "update",
+      "title": "Todo completed: 아틀라스티아이 에러 원인찾기",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "caa8dca4-e404-4f6e-a4eb-0b3ad64d9424",
+      "type": "create",
+      "title": "Todo created: 생성된 문서들 읽고 좀 생각해보기",
+      "description": "",
+      "created_at": "2026-03-22 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "1121a354-b654-4399-ae52-40259d93032d",
+      "type": "create",
+      "title": "Todo created: 네트워크분석 추가",
+      "description": "",
+      "created_at": "2026-03-22 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "f4d88b7c-8c97-4a14-962f-3cf4046b0f31",
+      "type": "update",
+      "title": "Todo completed: 네트워크분석 추가",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "e7374537-615b-4d12-a30b-c3c5624904da",
+      "type": "create",
+      "title": "Todo created: 토픽모델링분석추가",
+      "description": "",
+      "created_at": "2026-03-22 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "67a3de64-b930-4d3b-9826-bfe7c866c92c",
+      "type": "update",
+      "title": "Todo completed: 토픽모델링분석추가",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "f8c73931-3f5d-4295-b43a-b7b1ba66e635",
+      "type": "create",
+      "title": "Todo created: 최종보고서 업데이트",
+      "description": "",
+      "created_at": "2026-03-22 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "ed156047-4ae8-44c1-8393-37bb35474870",
+      "type": "update",
+      "title": "Todo completed: 최종보고서 업데이트",
+      "description": "",
+      "created_at": "2026-03-23 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "c1898998-cab4-4b3d-87b1-e5f8aa0be1c3",
+      "type": "create",
+      "title": "Issue created: 아틀라스티아이 분석후 프로젝트 사본 아틀라스티아이에서 열리지 않는 문제",
+      "description": "",
+      "created_at": "2026-03-21 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "bfe8c253-7b56-4867-b4e5-f1c4acd505e0",
+      "type": "update",
+      "title": "Issue resolved: 아틀라스티아이 분석후 프로젝트 사본 아틀라스티아이에서 열리지 않는 문제",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "50665471-d080-4b29-af97-7703c31976a4",
+      "type": "update",
+      "title": "Subtask completed: 프로젝트셋업",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "f44511ed-d01f-48e8-b011-8b26f2ff19e2",
+      "type": "update",
+      "title": "Subtask completed: 데이터분석",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "acae6a85-d8e4-4f55-81d1-4e9be073f0ab",
+      "type": "update",
+      "title": "Subtask completed: 결과보고서",
+      "description": "",
+      "created_at": "2026-03-22 00:01",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "5e1687be-6ff0-41cd-9328-53239faefe83",
+      "type": "create",
+      "title": "Schedule task: 이슈설정",
+      "description": "",
+      "created_at": "2026-03-20 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "d157cc0a-2a18-4cb1-be16-a55fc4a5bade",
+      "type": "create",
+      "title": "Schedule task: 리터리쳐 리뷰",
+      "description": "",
+      "created_at": "2026-03-21 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "d1a9cdc7-e7ce-46a5-96d4-fb9374e8152e",
+      "type": "milestone",
+      "title": "Stage moved: 5_completed → 3_in_development",
+      "description": "",
+      "created_at": "2026-03-23 02:04",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "085f8777-3eb3-46f3-b611-6c003883328f",
+      "type": "milestone",
+      "title": "Stage moved: 3_in_development → 5_completed",
+      "description": "",
+      "created_at": "2026-03-23 02:04",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c5277132-591b-45df-939d-e186c2013ff9",
+      "type": "update",
+      "title": "Document saved: _settings/project_note/주요 프로젝트 관련 링크.md",
+      "description": "",
+      "created_at": "2026-03-23 05:44",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1ad5a521-5e57-4bd9-952b-d43fac5d62a2",
+      "type": "update",
+      "title": "Document saved: _settings/project_note/깃헙과 관련.md",
+      "description": "",
+      "created_at": "2026-03-23 05:47",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "718024f2-1ad7-4d15-9d9c-79ea01621b3f",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e5caaab1-c118-4606-a1bb-0b9ea6caf6bb",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "24af47f7-2c6c-4c19-8149-c94e64215afa",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c16c9ba9-8b3b-48f9-911b-d38f32a0d524",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "259ecce7-4e97-4293-b832-243b9a34de5a",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f1d8241c-ca54-4284-8d0c-9fcb3ea7f706",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "dff6e02d-5cc6-462e-b7bc-37db3e7d7d7d",
+      "type": "delete",
+      "title": "Document deleted: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8a1fee58-e1fb-4904-99bc-13b8be4eef6c",
+      "type": "delete",
+      "title": "Document deleted: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a41d679d-f0c9-491d-be32-126346a42bf0",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market ko_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "06a49072-b207-4893-8f64-3e38f41d9acd",
+      "type": "delete",
+      "title": "Document deleted: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market ko_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "9df7b602-363b-44da-88d4-9b0e3877c869",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market ko_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a6fcbf44-0632-49f4-9722-08223634a974",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market ko_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "19999661-adf9-4e68-8b65-0e1be1b0967f",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market ko_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "5ac605b9-7aac-44b0-a383-47fab4bd24b9",
+      "type": "delete",
+      "title": "Document deleted: 관련논문/관련논문1_AI_and_Labour_Market/2023_Eloundou_GPT on labour market ko_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "87597afd-89b4-4ca1-b76a-9c7a5a3c1965",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문2_fsQCA Articles/2016_Kirchherr_Multi-causal pathways of public opposition to dam projects in Asia- A fuzzy set qualitative comparative analysis (fsQCA)_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "5b87d2f9-6914-43a0-bb2c-44c429933937",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문2_fsQCA Articles/2016_Kirchherr_Multi-causal pathways of public opposition to dam projects in Asia- A fuzzy set qualitative comparative analysis (fsQCA)_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:38",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "dc1cde08-d183-4a57-8cba-012521cba26d",
+      "type": "update",
+      "title": "Document saved: 관련논문/관련논문2_fsQCA Articles/2016_Kirchherr_Multi-causal pathways of public opposition to dam projects in Asia- A fuzzy set qualitative comparative analysis (fsQCA)_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:38",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b7faa692-8659-4029-9597-93b3c5de9710",
+      "type": "delete",
+      "title": "Document deleted: 관련논문/관련논문2_fsQCA Articles/2016_Kirchherr_Multi-causal pathways of public opposition to dam projects in Asia- A fuzzy set qualitative comparative analysis (fsQCA)_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:38",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "670c019e-ecc9-4f2e-8e10-84cb78b20f7a",
+      "type": "update",
+      "title": "Document saved: Product/LM_Artifacts/2_인포그래픽_개별문서/00_종합_전체소스_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:40",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "da8ddb4b-0560-44a7-8443-1c93d87b112b",
+      "type": "delete",
+      "title": "Document deleted: Product/LM_Artifacts/2_인포그래픽_개별문서/00_종합_전체소스_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:40",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e1a73346-2afe-4611-b3fc-a58c8e8cd94e",
+      "type": "update",
+      "title": "Document saved: Product/LM_Artifacts/4_팟캐스트_개별문서/00_종합_전체소스_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:40",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a695d61a-5748-4f9e-87bd-9a9e483ab64b",
+      "type": "delete",
+      "title": "Document deleted: Product/LM_Artifacts/4_팟캐스트_개별문서/00_종합_전체소스_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:40",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e312080c-7ad7-4fa5-87b1-6b2534581049",
+      "type": "update",
+      "title": "Document saved: Product/LM_Artifacts/5_전체종합_전체문서활용/APEM_종합비디오_메모.md",
+      "description": "",
+      "created_at": "2026-03-23 16:41",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "293d508a-b38c-4cb6-8470-b929100cb5ea",
+      "type": "delete",
+      "title": "Document deleted: Product/LM_Artifacts/5_전체종합_전체문서활용/APEM_종합비디오.mp4",
+      "description": "",
+      "created_at": "2026-03-23 16:41",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b269f9c6-a321-4dc7-96bb-2c432143535e",
+      "type": "update",
+      "title": "Document saved: _settings/project_note/주요 프로젝트 관련 링크.md",
+      "description": "",
+      "created_at": "2026-03-24 02:59",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "50384d2e-3aa8-401d-89d5-a1f36155a50e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:06",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f5f7b8fd-2d79-401f-84e1-844686fea4c1",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:06",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "acdd7a57-837b-4f91-a6da-2a48dd221553",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:06",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ff6ac761-4a7f-46a0-b588-f5c7d1916c83",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:06",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "819c0d7b-8af3-4aeb-8e7d-9c405ceef26b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:06",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "99c13913-ce8c-4263-8d9d-7626334de526",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:06",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "def0620c-c9bb-486b-965f-bb68f2916978",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:06",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "9b90abc5-ec39-4b58-9b9b-539030afa476",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "98b83ce5-5c35-4b4b-9c6e-d2a761f9a189",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "36926ecc-59b1-4389-80d0-8cc1ba37a9fb",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7bd77b5b-60df-4bd9-9e33-22e4d3d4f540",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d6bda982-e201-4f65-a013-a4cdf0688371",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d893d23b-a055-4a95-937a-517ba8ec528e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d559cda9-ff2a-4459-8aa6-4fad537ad093",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1e886bac-5f22-4e58-8b91-182cde2eaf98",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f0309781-621d-44c7-98c7-b7d16bff8163",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "37b82816-d1b7-48d8-82d8-07038a7d3bb0",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:07",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "43aeded9-3450-4fbd-b141-daef7c690254",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:08",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6bc7eefc-8c15-4051-b24f-25e3bcdd92e1",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:08",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ea789b92-fdda-4fb7-9b27-4f609e7c6eab",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:08",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "067e0040-d238-4027-9f8a-033872fd3e34",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:08",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "22af2442-95b2-447d-b5f1-fc620588c738",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:08",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3703ba8c-b105-4cc7-9924-123a4f59d96a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:08",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f3a74b57-d20e-402f-b98b-c8ecca793369",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6277624f-2fc7-4867-8945-93a36522c0ac",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "43c59798-3ced-42e6-9704-af796599bf29",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3f397e89-a2ef-4bfd-8969-b3a6972bf003",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3d463dc5-47c6-4d55-a523-373700db3235",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a18eae3c-a521-4a70-a099-216dd9de583e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b9e16b4d-1aa9-4481-a00f-7087607f038a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8496fc69-834c-4bed-838f-8c92c136c0b2",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "529e2903-808a-4424-954e-90f87077ef4b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6ad4825c-4a4e-4e17-8c81-69f8312809c3",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:09",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "0bf87a1a-436a-46e4-a1e4-5ccaba92510c",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f207e782-038c-4b1a-bdb6-e65e987c8899",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ce88b3c0-4070-4eb0-a4a8-6594e77057fa",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "831852e2-49d0-446c-84ba-918389ad9c97",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ec06daf4-40ab-4ce7-8f1b-941e9f8d10bb",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1c1b932e-ecdc-4ef0-ae38-fb39374795cc",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d3830808-a34b-434a-974c-cda69d2887be",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "569cd36a-63ef-49e4-ad0f-897d6bbe50a2",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "435e83bc-2a0e-4c5f-a2cc-4261ed2c9287",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6c52eee4-0aa9-4910-8091-06ae79eb52c4",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3e723db1-fc01-4df5-85bd-180de7de76cf",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:10",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d236563c-84e6-4d44-acd4-db5501b5dace",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:11",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f0312322-47d9-4b84-9246-36282c5e547b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:11",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7db6be1a-0e4e-4e4d-ba27-c871407f519e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:12",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "fc81ed09-0aa8-405b-94ea-ab3d4e1857b0",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:12",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "5072c101-387b-42a0-a0dd-d046c551c7b0",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:12",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "41a3aef9-0c05-4c7a-a908-a8617cdf4db8",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:12",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7dfa2140-9a7c-4fc6-b5fd-184f3a94ed88",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:12",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1aecfde1-a322-47c3-ac93-e1cd4d0e738c",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:12",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "9df9debf-f4e3-459f-8265-3019ab856511",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "2e045d31-7e15-4588-ac5c-e4931ce860cc",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "60e30eed-eb3f-44ff-9bcb-3025ff72deb6",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "be89c724-e8eb-49f0-98a3-8c69a12f0ef9",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "782f58f9-2e3b-43d0-8583-6f074548dfd7",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "efb3ffcf-982d-4ab9-8da5-e025e8a242c1",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f70fa158-f40c-4f6e-84da-e9e54f2483de",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "86a95bf5-9f07-439d-b024-8e3bb5934f53",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d9e76ee6-39ac-418d-80cb-aa0875aae2e4",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:13",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "cab271a5-8529-490c-b425-bc30f22aaf7e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f61d0fa6-f5c3-4b2d-b6ec-a67d50c71d67",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6cee5734-0e5f-4917-9c76-feebdbcb4b08",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e907ab8c-e2f7-420f-bdf1-f4507f419a83",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "21137d1d-ef5e-41a0-a568-292fbd0a861b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "140fe8be-9688-4cb3-8273-1bee3f47ec3b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "5cae100c-35a7-4636-8779-2a3b3f4e4bb6",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "55d1e507-c49b-4efa-b732-89a662a34ba3",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "5d61e20c-fc4b-4a63-b50f-aa11a9068625",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4cc8195d-1f36-4341-9800-54003e3d723d",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:14",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "bcfae35a-693e-4173-890c-501eb09a9353",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "95a35509-aab3-4433-a54d-519278d06f94",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "49b899a2-c7b9-4b55-a5c6-333b949feb2c",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4e220330-fb1f-4f69-8b17-69eb829b7708",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c770f51b-4169-421c-be5f-9b72a7dc45e1",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "60fa61f4-1831-4327-92ce-4cf1a47ab4df",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3cf15788-4473-455b-927d-6ccd5a66fedf",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "54132e8f-656b-4703-b2e7-d4a4074a3663",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d9916ef6-01e3-4233-858f-dfad34e024f6",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a2449a69-1da4-4576-a228-4e752399b4a8",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:15",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6842b8c2-42fa-4e9c-a02a-60416e8f2ea8",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f9c9a765-4cf4-47ee-b912-96c0057acf33",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f7f8e631-6af4-4f2b-bfcd-9c16389b0c76",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4969deb3-eef1-4385-a1f9-d29e9195eacc",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "2b597a2c-bbce-4da8-be2d-6ba27601ca40",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "dd746e05-e8c7-4705-975f-c7ac81f8b95a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "480bdc5b-eb6c-49c5-ac6a-2490a35cc0cd",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7edb1fb4-5e88-40ed-8690-267e00107ff8",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "19d74232-5009-4f73-ba62-c714808e949e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a1b92a97-1a0c-4d48-8c5e-151554b9644f",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "23de357f-c065-46e3-b283-5a4f31813867",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ea64b084-7465-4205-8305-e37f315e50c8",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:16",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "10e3d603-86d2-4287-9ad0-8bed2881f6df",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "41c4629e-9630-4e4d-a293-e7cdd99fb0b7",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c5d6509c-212b-4960-a90b-e9c496b2197a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "cca52815-3bf6-4357-896f-1d2e29a5b1a3",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "494122a9-215d-4a48-bec0-7c516e35346e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "da7cfdc6-b19a-452e-abbd-ab94631d16bf",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "43849ad8-390f-4a59-9983-5343e2e8788f",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b5ba0e97-3da0-47fb-a7b3-de88475cc164",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:17",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "bdb36074-17cf-4bde-b5cb-0f5e9af22590",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8120ee44-a5fa-4887-9ac0-0c7795cb49ba",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "86090f43-cba5-4dc3-b532-da68df80d7a5",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "26b569ce-f31e-4548-b2cb-8b6bf4e6337a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "046d01df-8ab2-4f4f-bc4c-8db413a154d1",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "9e8ad04b-885b-484b-9c6f-cd978c7df5ab",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6cd27e58-c085-4ae6-83f0-62f9cf21ef0f",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "febbe570-34db-47cb-bf15-30a8c1a2e6f0",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d496965d-db6e-4f46-994b-d4f030d98d13",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c56387eb-e52d-4eea-9b69-114691aa6b72",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d35e0273-fb81-4ea3-be56-dbd159dfff7b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c9405e9d-92bd-485f-936d-e6f880fd3015",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:18",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4ff305a0-1393-49a0-8e3e-d389db008652",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:19",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "bc356f2c-86f4-4509-9b18-fad877c0cdb1",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:19",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b42bf64a-57e6-4d39-8d0c-a50ab7c3eb40",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:19",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1f428e27-84bc-4af5-a83c-4cf826cd27f3",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:19",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "48656797-8e45-4d87-a4ad-a5e304ab60db",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:19",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4b76cd67-44e9-4c81-b80b-316306d428fa",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:19",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "44514911-3568-47cb-b1f1-5b4be5dc7835",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "0a87adcd-b748-417d-8372-410c5a9265ed",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d452063f-ffd5-45ea-9160-f62446d5e87a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a618d1c4-4146-4602-85e3-7bcdf5ac4e90",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7ea90da9-db88-4d8e-8f80-71edfd6ae957",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e9110851-bdfa-45b8-9d97-cff7b17b9339",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d5a6e6eb-7508-4d82-91b6-b0471c0d093a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f6e863d7-cb77-4738-af5c-f9f301d83afa",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e6861e5f-7024-45b9-a35b-b80d770268ee",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:20",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1801c756-aa84-4a96-a782-086cd9be7a27",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a3852628-efd6-4c0f-8285-9694bfdb1e8e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b8aba733-e740-4033-b633-9115639c2efb",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a94062db-1157-4ff8-a254-4f4a0f0edbf4",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "fec52722-cfc9-4a92-b3e7-32cb50c9ebdd",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4b7a5363-09ff-4a46-8020-2275fcb7ce88",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "76c83c4e-5ab6-4001-8719-7a6af19a2c4b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "bb6c47bf-5714-470d-8c4a-543550a64e78",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b8fd5df1-4fb8-447f-a2cc-d443419984a6",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "272ffd9e-b5f8-4cff-a923-5a7db9494a59",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6c0d844d-f288-408d-93cd-ef083efe460e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "818e2319-c4be-4327-87df-a82060243c71",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "17c27410-189c-47d3-baef-93152e4b2e6d",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4d7cf68d-802f-48ef-a2c7-3c67c3a7832d",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d41b8741-e22a-4956-8100-62b29511fce4",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3200fad1-78e6-4a42-bf50-ec8541364326",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4b03d568-5dff-42e1-bd2f-5e7d120756e4",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7fb9cd71-56bd-459f-8efe-fb3e75f61f9a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d1e4b48e-9a37-48ec-8911-d554c2b2b631",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d0025fe1-f036-40e6-a692-e32060a8c043",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:22",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d04b94b8-bd8b-4f6c-be07-79c7e8f08e05",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1cec765b-087d-4f8d-a672-11fdde97402f",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "cd632131-da74-40c4-9883-8c2b6f118384",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7ab5246b-cadd-4584-b705-a8ff95d6b001",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ab68b769-bbcc-4ce3-aae5-8da2f05b5fba",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a1b98dbd-af1c-466b-9f10-564304800650",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "fd6c6a88-f190-4314-bbb8-c6173773f3ac",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "30198086-a8e9-4b78-8301-d668aded2ddd",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "255ac7a9-b4a4-4c26-ba4b-307737067b36",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f7d30814-6f68-4a1e-ba0c-94abcb26f8ae",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "dd7bf88f-0133-407f-b103-562136cb9365",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "161ecf6b-feac-463d-a76b-7e6dc5abd17c",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "48f29a08-4ec5-4ae6-b59c-ce7f433e917e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:23",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a0b964e3-a7d5-49b7-9f19-d347021b2477",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "25b2184d-e91f-4059-903d-d20317a5e6c9",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f80b2908-ba30-4ffb-a241-a325b577bdd6",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "52a46a0d-5618-4527-b334-db600910c23e",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c2a0d021-5fd5-4857-8fc0-43b96de584ba",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d3db8d4c-d8b7-4a77-aaf8-5484a79a7d62",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "47d45511-3569-408d-92b6-7ef9ea976463",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "38837623-e40a-4ae1-a129-33ff5f94233a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ceca2bc1-670e-4a3e-bd10-e6794c58bad7",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f299b00e-7a93-418a-a82c-06cf76d4c589",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a44f3263-4a67-4f40-a871-384667282342",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ceed79a8-2d8d-4d9f-a8c2-0052c41ec82b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "919fc783-0e24-4cbb-ae92-21e47a7ab0d8",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8b4f9be8-5482-432c-bbe6-fa593e0bffd2",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a02240c5-f64e-4e9d-988a-cc85f9986177",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "707a59fb-6d5e-45ca-ae41-4b92cad327db",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "0dcdccd4-8114-4f53-9eca-29e49589a7f1",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "5a6a9993-da73-4e14-b97a-445b6cc662c8",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "731f5b4b-8cac-46e1-bda2-bdbb9f9b8092",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ae3e4567-b683-4ad8-b133-526067f007a9",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "092a8733-fbc9-4ca2-8aa9-bb99960a414c",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:25",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "74c2c324-9b76-4dec-9626-4307a45bd05a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "17cbbe43-ff87-4353-adf7-427575ea2bd7",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "eac87118-b086-472b-ab01-7c0670962e3a",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "fa5cb52b-4149-48ee-888b-5cd5604aef88",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "24ddd168-02b1-4f36-9fd7-c77caccaa35d",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "14e026b8-7564-4bfc-b217-b715a300769f",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "53b65fcc-feae-49f8-ada0-ac5ab772d010",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f92fd1ac-1e71-4f74-9fb2-74682ac7f7b0",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e8a5c9d6-65fd-4e69-88f9-e204be504599",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:26",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ef49639b-bf79-4021-b053-04c3d4d334ba",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8fa7be23-771c-4282-bb4f-9db875737cb5",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3670e457-f42a-472d-a610-655e29cfe4e9",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "202ff04e-2ea3-45ad-8d30-6314983b7a78",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "5677f80e-18f9-4e08-97a2-7e431b2f94fe",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "36de61cf-045d-40bf-adf7-425dc07bdd58",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e1cba74f-0fe0-40c4-9ec2-a722155e28ea",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ec5b38b3-d2b9-449e-b3de-3dde57d29a23",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "900bc825-b739-4067-a610-1f78ae4d2950",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "701f0307-32ca-44d1-81a3-aab05b8474eb",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "1c7a6f06-49a2-462f-aaa4-41d07bfd7c41",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "4df69598-0e4d-4d10-b757-fa3130a8591d",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "0eb2acfa-39f4-45d9-995d-7ee4bc401e0b",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f1eff302-6bf2-4ff2-9b1b-ca1ee31a2e37",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "eca4467e-5311-4d6b-85d2-09f1955b9e72",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "fd529720-8399-4b81-9e3f-ebcd301a9e70",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:28",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8996e5a0-0c25-485d-8838-159b7d330d21",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:28",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "47eda395-57fc-4358-a4f2-187e00f2c377",
+      "type": "update",
+      "title": "Document saved: 미팅로그/20260324_연구 논의 사항_정동률_메모.md",
+      "description": "",
+      "created_at": "2026-03-24 04:30",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "613ce292-4f83-43ff-a00a-23448cb0cd8e",
+      "type": "delete",
+      "title": "Document deleted: 미팅로그/-에 대한 Chad의 답변요지.md",
+      "description": "",
+      "created_at": "2026-03-24 04:31",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
