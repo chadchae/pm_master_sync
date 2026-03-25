@@ -1,0 +1,102 @@
+{
+  "tasks": [
+    {
+      "id": "7101a322-c390-49a3-aa34-45a73a6d4860",
+      "title": "프로젝트 셋업",
+      "description": "",
+      "start_date": "",
+      "end_date": "",
+      "duration_days": 0,
+      "assignee": "",
+      "status": "planned",
+      "depends_on": [],
+      "parent_id": "",
+      "category": "General",
+      "progress_pct": 0,
+      "order": 0
+    },
+    {
+      "id": "f1e10f45-b54e-4dc4-a946-5bd285ffc612",
+      "title": "조사시작",
+      "description": "",
+      "start_date": "",
+      "end_date": "",
+      "duration_days": 0,
+      "assignee": "",
+      "status": "planned",
+      "depends_on": [],
+      "parent_id": "",
+      "category": "조사 및 이해",
+      "progress_pct": 0,
+      "order": 1
+    },
+    {
+      "id": "a22827f4-3311-4691-aeaf-a4a9d74ce562",
+      "title": "분석시작",
+      "description": "",
+      "start_date": "",
+      "end_date": "",
+      "duration_days": 0,
+      "assignee": "",
+      "status": "planned",
+      "depends_on": [],
+      "parent_id": "",
+      "category": "분석작업",
+      "progress_pct": 0,
+      "order": 2
+    },
+    {
+      "id": "23a53545-32fa-48db-9dc3-b8fede807680",
+      "title": "글쓰기시작",
+      "description": "",
+      "start_date": "",
+      "end_date": "",
+      "duration_days": 0,
+      "assignee": "",
+      "status": "planned",
+      "depends_on": [],
+      "parent_id": "",
+      "category": "글쓰기",
+      "progress_pct": 0,
+      "order": 3
+    },
+    {
+      "id": "a0204d7f-b3d8-4d94-bf22-c411fc031976",
+      "title": "저널제출준비",
+      "description": "",
+      "start_date": "",
+      "end_date": "",
+      "duration_days": 0,
+      "assignee": "",
+      "status": "planned",
+      "depends_on": [],
+      "parent_id": "",
+      "category": "저널프로세스",
+      "progress_pct": 0,
+      "order": 4
+    }
+  ],
+  "milestones": [],
+  "categories": [
+    {
+      "name": "General",
+      "color": "#6b7280"
+    },
+    {
+      "name": "조사 및 이해",
+      "color": "#6366f1"
+    },
+    {
+      "name": "분석작업",
+      "color": "#8b5cf6"
+    },
+    {
+      "name": "글쓰기",
+      "color": "#a855f7"
+    },
+    {
+      "name": "저널프로세스",
+      "color": "#d946ef"
+    }
+  ]
+}
