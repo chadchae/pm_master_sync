@@ -1,0 +1,94 @@
+{
+  "entries": [
+    {
+      "id": "50b8b616-c239-441a-8867-25007cd50701",
+      "type": "create",
+      "title": "Project created: 클라우드브로 국책사업 지원",
+      "description": "",
+      "created_at": "2026-03-20 00:00",
+      "tags": [
+        "backfill"
+      ]
+    },
+    {
+      "id": "266d1794-7ef9-49f1-9532-493394e01ec6",
+      "type": "update",
+      "title": "Subtask completed: 시작",
+      "description": "",
+      "created_at": "2026-03-23 02:24",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6661dad1-b6a0-40de-bae4-85f79fc6f60d",
+      "type": "update",
+      "title": "Document saved: 이메일/국책과제 지원 요청 1.md",
+      "description": "",
+      "created_at": "2026-03-23 02:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "2623d39d-34b1-435b-9aab-02580129bba7",
+      "type": "update",
+      "title": "Document saved: 이메일/국책과제 지원 요청2.md",
+      "description": "",
+      "created_at": "2026-03-23 02:27",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "ed4b72eb-5b96-4fe0-adbe-76180c600c49",
+      "type": "update",
+      "title": "Document saved: 이메일/내 답변1.md",
+      "description": "",
+      "created_at": "2026-03-23 02:37",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "aba4f2b8-119b-41e1-8334-df029bb8c107",
+      "type": "update",
+      "title": "Subtask completed: 이메일 및 문서 읽고 분석",
+      "description": "",
+      "created_at": "2026-03-23 03:00",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "db798fc8-bc7a-4631-81c2-591a3804f9e4",
+      "type": "update",
+      "title": "Subtask completed: 이메일 쓰기",
+      "description": "",
+      "created_at": "2026-03-23 03:00",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "9402a0e7-5f1b-47f9-acf5-2a0943040b9d",
+      "type": "update",
+      "title": "Subtask completed: 문서작성",
+      "description": "",
+      "created_at": "2026-03-23 03:00",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a6f167b8-6953-48e7-b69b-2291c1012e29",
+      "type": "milestone",
+      "title": "Stage moved: 2_initiation_stage → 6_archived",
+      "description": "",
+      "created_at": "2026-03-23 03:07",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
