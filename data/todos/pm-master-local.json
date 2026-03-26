@@ -18,7 +18,7 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-23",
       "completed_at": "2026-03-23",
-      "order": 4
+      "order": 6
     },
     {
       "id": "dc04d72f-f372-4133-b218-fe841115f8dd",
@@ -45,7 +45,7 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-23",
       "completed_at": "2026-03-23",
-      "order": 3,
+      "order": 5,
       "starred": true
     },
     {
@@ -59,21 +59,21 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-24",
       "completed_at": "",
-      "order": 4,
+      "order": 3,
       "starred": true
     },
     {
       "id": "a6f4fc94-c4df-4e44-a6f7-94f60c50dfb3",
       "title": "안드레아 페이퍼",
       "description": "",
-      "column": "in_progress",
+      "column": "done",
       "priority": "medium",
       "assignee": "",
       "due_date": "",
       "created_at": "2026-03-23",
-      "updated_at": "2026-03-24",
-      "completed_at": "",
-      "order": 3,
+      "updated_at": "2026-03-27",
+      "completed_at": "2026-03-27",
+      "order": 1,
       "starred": true
     },
     {
@@ -140,7 +140,7 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-23",
       "completed_at": "",
-      "order": 5,
+      "order": 4,
       "starred": true
     },
     {
@@ -181,7 +181,7 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-24",
       "completed_at": "2026-03-24",
-      "order": 1,
+      "order": 3,
       "starred": true
     },
     {
@@ -222,7 +222,7 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-24",
       "completed_at": "2026-03-24",
-      "order": 0,
+      "order": 2,
       "starred": true
     },
     {
@@ -236,7 +236,7 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-24",
       "completed_at": "",
-      "order": 6
+      "order": 5
     },
     {
       "id": "1408898d-e291-4057-9935-443fcc5348cb",
@@ -444,7 +444,7 @@
       "created_at": "2026-03-23",
       "updated_at": "2026-03-24",
       "completed_at": "2026-03-24",
-      "order": 2,
+      "order": 4,
       "starred": true
     },
     {
@@ -464,14 +464,14 @@
       "id": "2f73e1d2-b580-48fe-97d1-d3c26e088406",
       "title": "국책사업과제용 프로필",
       "description": "4분(김세곤 이사님, 남정현님, 윤명식 상무님, 채충일 교수님)의 국책과제용 프로필을 요청드리고자 별도 양식 작업 후 공유",
-      "column": "todo",
+      "column": "done",
       "priority": "medium",
       "assignee": "",
       "due_date": "",
       "created_at": "2026-03-24",
-      "updated_at": "2026-03-24",
-      "completed_at": "",
-      "order": 9
+      "updated_at": "2026-03-27",
+      "completed_at": "2026-03-27",
+      "order": 0
     }
   ]
 }
