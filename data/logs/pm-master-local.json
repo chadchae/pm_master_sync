@@ -449,6 +449,26 @@
       "tags": [
         "auto"
       ]
+    },
+    {
+      "id": "e2662a04-095d-4d86-9b10-223f21cebe12",
+      "type": "update",
+      "title": "Todo completed: 안드레아 페이퍼",
+      "description": "",
+      "created_at": "2026-03-27 00:51",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "947a7289-10f9-4378-b569-4dc7fe4b2a40",
+      "type": "update",
+      "title": "Todo completed: 국책사업과제용 프로필",
+      "description": "",
+      "created_at": "2026-03-27 00:51",
+      "tags": [
+        "auto"
+      ]
     }
   ]
 }
