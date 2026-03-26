@@ -4,37 +4,37 @@
       "id": "5f79b331-e2a9-45e7-a5a7-1e5115eaf03e",
       "title": "데이터분석",
       "description": "",
-      "status": "pending",
+      "status": "done",
       "order": 0,
       "created_at": "2026-03-20",
-      "completed_at": ""
+      "completed_at": "2026-03-27"
     },
     {
       "id": "9a7f80eb-5c75-4d49-b2a6-d2865eccc3c3",
       "title": "리비젼",
       "description": "",
-      "status": "pending",
+      "status": "done",
       "order": 1,
       "created_at": "2026-03-20",
-      "completed_at": ""
+      "completed_at": "2026-03-27"
     },
     {
       "id": "cd4cbdf4-0cbf-4547-b20d-51c7a7f906b2",
       "title": "수정",
       "description": "",
-      "status": "pending",
+      "status": "done",
       "order": 2,
       "created_at": "2026-03-20",
-      "completed_at": ""
+      "completed_at": "2026-03-27"
     },
     {
       "id": "ae7602b9-18f8-45b6-9f88-2c58900270a9",
       "title": "가토에게 보내기",
       "description": "",
-      "status": "pending",
+      "status": "done",
       "order": 3,
       "created_at": "2026-03-20",
-      "completed_at": ""
+      "completed_at": "2026-03-27"
     }
   ]
 }
