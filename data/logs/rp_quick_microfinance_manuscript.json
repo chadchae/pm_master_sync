@@ -9,6 +9,56 @@
       "tags": [
         "backfill"
       ]
+    },
+    {
+      "id": "af8f8d7b-a34b-4ff9-a57b-f5e38963b6e2",
+      "type": "milestone",
+      "title": "Stage moved: 4_in_testing → 6_archived",
+      "description": "",
+      "created_at": "2026-03-27 00:30",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "a26edb27-7e79-4a89-a62c-214045972abf",
+      "type": "update",
+      "title": "Subtask completed: 데이터분석",
+      "description": "",
+      "created_at": "2026-03-27 00:35",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "92ce8517-3a43-4a86-8865-1b75c2b7eac2",
+      "type": "update",
+      "title": "Subtask completed: 리비젼",
+      "description": "",
+      "created_at": "2026-03-27 00:35",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "99362857-45be-49dd-931d-d64f77125850",
+      "type": "update",
+      "title": "Subtask completed: 수정",
+      "description": "",
+      "created_at": "2026-03-27 00:35",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "326441ad-02b6-40c2-a6be-a92c1fd384de",
+      "type": "update",
+      "title": "Subtask completed: 가토에게 보내기",
+      "description": "",
+      "created_at": "2026-03-27 00:35",
+      "tags": [
+        "auto"
+      ]
     }
   ]
 }
