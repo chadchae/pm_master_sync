@@ -29,6 +29,16 @@
       "tags": [
         "auto"
       ]
+    },
+    {
+      "id": "03cae4cb-ce9a-419e-884e-30b36b18512a",
+      "type": "update",
+      "title": "Subtask completed: 저널제출",
+      "description": "",
+      "created_at": "2026-03-27 00:36",
+      "tags": [
+        "auto"
+      ]
     }
   ]
 }
