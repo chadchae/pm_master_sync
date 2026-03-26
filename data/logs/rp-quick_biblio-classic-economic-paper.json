@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "id": "26f05a3b-e588-4bcc-bb9d-6d6055e6a357",
+      "type": "milestone",
+      "title": "Stage moved: 4_in_testing → 6_archived",
+      "description": "",
+      "created_at": "2026-03-27 00:31",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "acc34971-63cc-4a91-81bb-f3d9f8959e53",
+      "type": "update",
+      "title": "Subtask completed: 연구시작",
+      "description": "",
+      "created_at": "2026-03-27 00:34",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f91ca7ab-e572-46d0-9fc4-1046a0bf3451",
+      "type": "update",
+      "title": "Subtask completed: 연구끝",
+      "description": "",
+      "created_at": "2026-03-27 00:34",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
