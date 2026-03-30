@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "id": "d25bac17-cd5f-4051-aad5-5b3c593a92d2",
+      "type": "create",
+      "title": "Research project created: 콘텐츠는 어떻게 산업으로 연구되어 왔는가?: 국내 콘텐츠 산업 연구에 대한 체계적 문헌고찰과 네트워크 분석",
+      "description": "",
+      "created_at": "2026-03-28 10:36",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "7bcc8786-8b25-4339-a131-8d7a70d5abc8",
+      "type": "milestone",
+      "title": "Stage moved: 1_idea_stage → 2_initiation_stage",
+      "description": "",
+      "created_at": "2026-03-28 10:38",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "85063bab-9ec7-4d88-9222-826321b7e6c2",
+      "type": "milestone",
+      "title": "Stage moved: 2_initiation_stage → 5_completed",
+      "description": "",
+      "created_at": "2026-03-28 10:39",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "d512ade0-36f2-4650-9ef4-9e798fff3e87",
+      "type": "update",
+      "title": "Document saved: 00_연구설정/연구설정.md",
+      "description": "",
+      "created_at": "2026-03-28 10:44",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "62ad66f2-37c5-4bc3-9297-6d441ba90345",
+      "type": "update",
+      "title": "Document saved: 00_연구설정/연구설정.md",
+      "description": "",
+      "created_at": "2026-03-28 10:44",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "500e2bc3-c29b-489b-96c0-d8b95b8650ca",
+      "type": "update",
+      "title": "Document saved: 00_연구설정/연구설정.md",
+      "description": "",
+      "created_at": "2026-03-28 10:45",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "b19dc84b-e096-4148-9f1b-2df734bed739",
+      "type": "update",
+      "title": "Document saved: 00_연구설정/연구 아이디어.md",
+      "description": "",
+      "created_at": "2026-03-28 10:47",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "86150284-b0b8-4572-be86-af709c6d1692",
+      "type": "update",
+      "title": "Document saved: 00_연구설정/연구 아이디어.md",
+      "description": "",
+      "created_at": "2026-03-28 10:47",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8f2a255a-a791-4884-91d4-b351ce6d8535",
+      "type": "update",
+      "title": "Document saved: 00_연구설정/연구 아이디어.md",
+      "description": "",
+      "created_at": "2026-03-28 10:48",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "f0a346aa-060d-4c54-9350-adb62d3e50fb",
+      "type": "update",
+      "title": "Subtask completed: 연구시작했다",
+      "description": "",
+      "created_at": "2026-03-28 14:05",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "95b519c7-1f54-4c9e-840f-bb18ef0cf40c",
+      "type": "update",
+      "title": "Subtask completed: 연구끝났다",
+      "description": "",
+      "created_at": "2026-03-28 14:05",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "333a16e0-aacd-4b48-ad9a-82e59a4e6f32",
+      "type": "milestone",
+      "title": "Stage moved: 5_completed → 6_archived",
+      "description": "",
+      "created_at": "2026-03-28 14:05",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
