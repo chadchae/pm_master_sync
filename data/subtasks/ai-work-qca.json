@@ -1,0 +1,148 @@
+{
+  "subtasks": [
+    {
+      "id": "a36cd697-9774-41e2-a57a-fc148ac4cf17",
+      "title": "프로젝트셋업",
+      "description": "",
+      "status": "done",
+      "order": 0,
+      "created_at": "2026-03-28",
+      "completed_at": "2026-03-28"
+    },
+    {
+      "id": "c4b7fa31-4167-4677-a640-03bcd2de52ba",
+      "title": "RAG",
+      "description": "",
+      "status": "pending",
+      "order": 1,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "41e8a4f8-ebd5-4ac4-afa5-00e7fecc02a4",
+      "title": "프레임 확인",
+      "description": "",
+      "status": "pending",
+      "order": 2,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "e3b68a91-1b19-4714-b26a-542c4eced7de",
+      "title": "변수특정 및 모델 확정",
+      "description": "",
+      "status": "pending",
+      "order": 3,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "180b56c0-427f-4ea5-925a-36a2897cb0ff",
+      "title": "Preliminarily 분석",
+      "description": "",
+      "status": "pending",
+      "order": 4,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "9551990f-a880-4b92-9062-bcfbe3e5ea70",
+      "title": "인터코더",
+      "description": "",
+      "status": "pending",
+      "order": 5,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "36c8afe1-6acc-4fcd-b6ea-6e005243991a",
+      "title": "패러미터셋팅",
+      "description": "",
+      "status": "pending",
+      "order": 6,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "e8af2df4-4357-4292-b482-4465dcd9ee16",
+      "title": "1차분석",
+      "description": "",
+      "status": "pending",
+      "order": 7,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "38abc8e0-59f9-4f05-8ad6-56d3f9071aee",
+      "title": "2차분석",
+      "description": "",
+      "status": "pending",
+      "order": 8,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "65356ce9-d0de-4f86-bb13-106b940d7607",
+      "title": "3차분석",
+      "description": "",
+      "status": "pending",
+      "order": 9,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "3aa588ce-8ffe-46ad-97eb-596cafabb07d",
+      "title": "보고서작성",
+      "description": "",
+      "status": "pending",
+      "order": 10,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "94c37874-3fce-4447-8842-814e3bf6eb7c",
+      "title": "글쓰기",
+      "description": "",
+      "status": "pending",
+      "order": 11,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "60c629a3-0357-4ade-ac7c-95a3842f49ea",
+      "title": "1차 초안 제출",
+      "description": "4/3까지 초안 공유",
+      "status": "pending",
+      "order": 12,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "d3297661-b699-49cf-b7ff-ec377c26fb7b",
+      "title": "2차 초안 완성",
+      "description": "4/10까지 2차 수정",
+      "status": "pending",
+      "order": 13,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "d9d66b78-fac6-4afe-963e-76ce75bf1309",
+      "title": "내용 검토 및 최종안 확정",
+      "description": "4/17까지 검토 완료",
+      "status": "pending",
+      "order": 14,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "2d6cb510-d87a-443b-a686-0900c2ec658b",
+      "title": "최종 투고",
+      "description": "4월 말 학회지 투고",
+      "status": "pending",
+      "order": 15,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    }
+  ]
+}
