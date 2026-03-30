@@ -1,0 +1,58 @@
+{
+  "subtasks": [
+    {
+      "id": "91e61005-0593-4e81-b993-2ebe741cc2b2",
+      "title": "프로젝트셋업",
+      "description": "",
+      "status": "done",
+      "order": 0,
+      "created_at": "2026-03-28",
+      "completed_at": "2026-03-28"
+    },
+    {
+      "id": "5d4e7be0-7c37-48ff-98e8-23387acf0049",
+      "title": "분석",
+      "description": "",
+      "status": "done",
+      "order": 1,
+      "created_at": "2026-03-28",
+      "completed_at": "2026-03-28"
+    },
+    {
+      "id": "8a5fd818-98a9-4619-b5ca-ae07f72d956c",
+      "title": "1차 초안 제출",
+      "description": "4/3까지 초안 공유",
+      "status": "pending",
+      "order": 2,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "2ff2cdfa-8f7c-4ef5-b27a-56d91a6bd319",
+      "title": "2차 초안 완성",
+      "description": "4/10까지 2차 수정",
+      "status": "pending",
+      "order": 3,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "9d0c61f5-6934-40fe-b2e1-658333b28ff8",
+      "title": "내용 검토 및 최종안 확정",
+      "description": "4/17까지 검토 완료",
+      "status": "pending",
+      "order": 4,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "799c73ef-d06f-4f87-9865-d9e68b90d8ee",
+      "title": "최종 투고",
+      "description": "4월 말 학회지 투고",
+      "status": "pending",
+      "order": 5,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    }
+  ]
+}
