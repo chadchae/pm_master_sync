@@ -469,6 +469,46 @@
       "tags": [
         "auto"
       ]
+    },
+    {
+      "id": "7f3472c0-bbad-42fd-bec8-fc110c677331",
+      "type": "create",
+      "title": "Todo created: call for paper, 나라장터관심, 관심저널 크롤링 보드개발",
+      "description": "",
+      "created_at": "2026-03-30 13:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "524b9e09-43a1-4914-81f1-c70a58497ad5",
+      "type": "create",
+      "title": "Todo created: 메디컬 센터 건강검진 보고서 찾으러",
+      "description": "",
+      "created_at": "2026-03-30 13:21",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "8e6b8ccb-defb-421c-a36a-fec387985834",
+      "type": "update",
+      "title": "Todo completed: 메디컬 이그젬 받고 리포트 HR에",
+      "description": "",
+      "created_at": "2026-03-30 13:39",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "c545d3de-1a9d-40c5-b398-584986113788",
+      "type": "create",
+      "title": "Todo created: 각각 분석들 기본 템플릿",
+      "description": "",
+      "created_at": "2026-03-30 14:03",
+      "tags": [
+        "auto"
+      ]
     }
   ]
 }
