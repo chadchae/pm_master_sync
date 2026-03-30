@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "id": "312563a5-c4f6-422a-91c5-a4e311ace052",
+      "type": "milestone",
+      "title": "Stage moved: 2_initiation_stage → 6_archived",
+      "description": "",
+      "created_at": "2026-03-27 18:36",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "49b075ba-517e-4950-b577-81acea1b0bf5",
+      "type": "update",
+      "title": "Document saved: h4_Conference alias/People+ X wanted 1회/[People+ X wanted 1회] 3-2. People Analytics 채용도구의 효과성 확인_롯데인재개발원 People Innovation LAB 이중학 매니저-JXMh-DCBiyE_메모.md",
+      "description": "",
+      "created_at": "2026-03-27 18:40",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "3fbef646-8282-4433-954e-26b4805b4a86",
+      "type": "milestone",
+      "title": "Stage moved: 6_archived → 8_operation",
+      "description": "",
+      "created_at": "2026-03-27 23:44",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
