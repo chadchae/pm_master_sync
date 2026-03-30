@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "id": "0b4d49e6-9111-4831-bd4a-3d591ea15504",
+      "type": "create",
+      "title": "Project created: AI 직업변화 - QUAL + QCA",
+      "description": "",
+      "created_at": "2026-03-27 23:33",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "e19300bf-3aea-4c53-997c-356fb416393f",
+      "type": "milestone",
+      "title": "Stage moved: 2_initiation_stage → 5_completed",
+      "description": "",
+      "created_at": "2026-03-27 23:33",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "dd48e683-58ca-4aef-9c34-ec71d77220d3",
+      "type": "milestone",
+      "title": "Stage moved: 5_completed → 7_series",
+      "description": "",
+      "created_at": "2026-03-27 23:39",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "6a21773e-ca23-47ad-a5ba-76b4ee621a57",
+      "type": "update",
+      "title": "Subtask completed: 프로젝트셋업",
+      "description": "",
+      "created_at": "2026-03-28 08:04",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
