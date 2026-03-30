@@ -1,0 +1,58 @@
+{
+  "subtasks": [
+    {
+      "id": "4969e831-97f5-42f2-a645-45c225454bc1",
+      "title": "프로젝트셋업",
+      "description": "",
+      "status": "done",
+      "order": 0,
+      "created_at": "2026-03-28",
+      "completed_at": "2026-03-28"
+    },
+    {
+      "id": "3a00b19b-78c3-470c-a088-3bb266d5f3ac",
+      "title": "분석",
+      "description": "",
+      "status": "done",
+      "order": 1,
+      "created_at": "2026-03-28",
+      "completed_at": "2026-03-28"
+    },
+    {
+      "id": "6cd99527-5817-4b59-89f4-f31085243928",
+      "title": "1차초안",
+      "description": "4월3일",
+      "status": "pending",
+      "order": 2,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "cdbb6aec-4a19-4a3b-bcfe-06802da0f9b3",
+      "title": "2차초안",
+      "description": "4월10일",
+      "status": "pending",
+      "order": 3,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "57000ef2-3a91-4710-b87e-cce96111ab68",
+      "title": "내용검토->최종안",
+      "description": "4월 17일",
+      "status": "pending",
+      "order": 4,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    },
+    {
+      "id": "2e75a79f-b577-460a-88e6-a5a37a9b6430",
+      "title": "최종투고",
+      "description": "4월30일",
+      "status": "pending",
+      "order": 5,
+      "created_at": "2026-03-28",
+      "completed_at": ""
+    }
+  ]
+}
