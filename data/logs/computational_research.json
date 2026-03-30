@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "id": "cc310f55-13c0-4629-9281-893d697097f5",
+      "type": "create",
+      "title": "Research project created: Computational/AI-Assisted Research",
+      "description": "",
+      "created_at": "2026-03-28 07:01",
+      "tags": [
+        "auto"
+      ]
+    },
+    {
+      "id": "9834175e-3f5b-4705-9614-d3b0f6cab756",
+      "type": "milestone",
+      "title": "Stage moved: 1_idea_stage → 9_discarded",
+      "description": "",
+      "created_at": "2026-03-28 16:22",
+      "tags": [
+        "auto"
+      ]
+    }
+  ]
+}
